@@ -1,5 +1,7 @@
 # One Stop for Helpful One Sheet Guides on Relevant Social Science Statistical Methods 
 
+[Probability](/prob_guide/README.md)
+
 [Statistical Distributions](/dist_guide/README.md)
 
 [Univariate Statistical Tests](/uni_stat_guide/README.md)
