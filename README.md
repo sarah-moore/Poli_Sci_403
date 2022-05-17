@@ -2,4 +2,4 @@
 
 [Data Sources](/data_guide/README.md) 
 
-[One-Sheeters](stat_guides/README/md.)
+[One-Sheeters](stat_guide/README/md.)
