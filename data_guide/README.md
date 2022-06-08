@@ -4,7 +4,7 @@
 
 **Regional Public Opinion Datasets:** 
 
-  [ANES](data_guide/anes_guide/README.md)
+  [ANES](anes_guide/README.md)
   
   [GSS](/gss_guide/README.md)
   
