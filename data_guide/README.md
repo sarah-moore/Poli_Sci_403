@@ -18,7 +18,7 @@
   
   [Arab Barometer](/arabbarometer_guide/README.md) 
  
- **Conflict Datasets:** 
+ **Event Datasets:** 
  
   [Correlates of War (COW)](/cow_guide/README.md) 
   
